@@ -1,0 +1,16 @@
+{
+	"folders": [
+		{
+			"path": "../../../Desktop/New folder"
+		},
+		{
+			"path": "../../../../../xampp/htdocs/Athentication"
+		},
+		{
+			"path": ".."
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "Athentication"
+	}
+}
